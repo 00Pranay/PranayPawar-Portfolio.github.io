@@ -216,7 +216,18 @@ img{
 		bottom:  10rem;
 		right:8rem;
 	}
-	
+	.table{
+		position: relative;
+		float: left;
+		right: 10% ;
+		padding: 0;
+		width: 50rem;
+		font-size:1.5rem;
+	}
+	.table{
+		width: 10rem;
+
+	}
 }
 /*Home page ends here */
 .about_me{
@@ -322,6 +333,7 @@ tbody{
 #about_me p {
 	font-family: "Comic Sans MS";
 }
+
 .table1 h1{
 	font-family: Impact;
 	font-size: 3rem;
