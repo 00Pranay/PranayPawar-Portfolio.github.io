@@ -45,13 +45,14 @@ body{
 	top: 2.5rem;
 }
 .nav{
-	background-color: color: rgb(226, 196, 148);
+	/*background-color: color: rgb(226, 196, 148);*/
 	width: 100%;
 	position: static;
 	font-size: 20px;
+	background-color: rgb(226, 196, 148) ;	
 }
 .nav a{
-	color: black;	
+		background-color: rgb(226, 196, 148) ;	
 }
 .mainText h1{ 	
 	margin: 0;
