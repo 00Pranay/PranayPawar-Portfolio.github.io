@@ -52,7 +52,8 @@ body{
 	background-color: rgb(226, 196, 148) ;	
 }
 .nav a{
-		background-color: rgb(226, 196, 148) ;	
+		background-color: rgb(226, 196, 148);
+		color: black;	
 }
 .mainText h1{ 	
 	margin: 0;
